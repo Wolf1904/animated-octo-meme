@@ -35,15 +35,16 @@ Three different things should be consider:
 - And basically you got to **go into your queue or your tickets** and see maybe **someone's fixed an issue** before you go. 
 - Now, **check your ticketing system**. Maybe someone has **seen this issue before and fix this issue**.
 
->[!info] Summary
-So, that's basically this is basically *common scenarios are how you talk to people* and how you interact with people.
+>[!info]
+>Summary
+>So, that's basically this is basically *common scenarios are how you talk to people* and how you interact with people.
 >
-You have to know how to talk to them.
-Total human beings **talk to them like they're not robots**.
-And that's the way that's the basic way of talking.
-It's not complicated.
+>You have to know how to talk to them.
+>Total human beings **talk to them like they're not robots**.
+>And that's the way that's the basic way of talking.
+>It's not complicated.
 >
-And so *every scenario would be something like*:
+>And so *every scenario would be something like*:
 >- Good morning, Good afternoon.
 >- I hope you have a good day.
 >- Is there anything else I can help you with?
