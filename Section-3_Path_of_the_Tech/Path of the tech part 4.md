@@ -1,6 +1,7 @@
 
 
-> [!question] New Hire Request
+> [!question]
+> New Hire Request
 > *System reported an hour ago (Tue 26 May at 12:34 PM) via Email*
 > New Hire Request
 > Name: **Jimmy Chan**
@@ -25,7 +26,8 @@
 - **Outlook Web App:** Provides a web-based interface for accessing Exchange services, offering a consistent experience across devices. 
 - **Client Access:** Enables secure and reliable access to Exchange services for various clients, including desktop and mobile devices.
 
-> [!warning] End of Support:
+> [!warning]
+> End of Support:
 > 
 > Microsoft will end support for Exchange Server 2016 on October 14, 2025. After this date, Microsoft will no longer provide security updates, bug fixes, or technical support for Exchange Server 2016. Organisations using Exchange Server 2016 should plan for a migration to a supported version of Exchange Server or consider transitioning to Microsoft 365 or another email service.
 
@@ -49,7 +51,8 @@
 - Vpn certificate missing
 - Duo isn't getting notifications
 
-> [!tip] Cisco Duo
+> [!tip]
+> Cisco Duo
 > Cisco Duo is ==a cloud-based identity security solution that provides multi-factor authentication (MFA), single sign-on (SSO), and remote access capabilities==. It helps organizations improve security by verifying user identity and device health, providing a secure connection to applications and networks. 
 > 
 > ***Key Features of Cisco Duo:***
@@ -146,7 +149,8 @@
 - Do you want the user to inherit the whole folder or just 1 folder?
 - Share drive access is almost used in every IT company
 
->[!important] Helpdesk
+>[!important]
+> Helpdesk
 >- **Windows 10**
 >- **Mac os x**
 >- **Active Directory**
