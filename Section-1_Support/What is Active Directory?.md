@@ -43,7 +43,8 @@
 
 ![[Pasted image 20250131000830.png]]
 
->[!note] CMOS
+>[!note]
+>CMOS
 >CMOS Battery --> To change the Date/Time on the Motherboard
 >If this incorrect, then this messes up with the System
 
@@ -84,7 +85,8 @@
 #Server
 ## Windows 2016 Server
 
->[!important] Windows Server 2016 Setup
+>[!important]
+>Windows Server 2016 Setup
 >Installation: Virtualbox (For learning only)
 >***Different from Windows OS*** as it has **Server Manager Tools**
 >
@@ -152,7 +154,8 @@ After *setting up Windows Server 2016*, install and setup **Active Directory** t
 >[!info]
 > Active Directory **doesn't give access to Whole Servers**.
 
->[!important] Active Directory 
+>[!important]
+>Active Directory 
 > #Active_Directory is <u>*very important for IT Support and Related Jobs.*</u>
 > So, learn it **separately**
 >
