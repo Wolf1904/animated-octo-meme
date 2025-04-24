@@ -38,7 +38,8 @@
 -> **Solution:** Open *outlook in owa* to *troubleshoot rules*. <u>If it works on owa than that means outlook is corrupted</u>.
 
 
->[!important] General Troubleshooting Tips:
+>[!important]
+>General Troubleshooting Tips:
 >1. **Keep Software Updated:** Ensure *Outlook and your operating system are up-to-date*.
 >
 >2. **Check for Add-Ins**: *Add-ins can often cause issues*; disable them to see if the problem resolves.
