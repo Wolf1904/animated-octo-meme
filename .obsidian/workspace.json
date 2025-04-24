@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "5868023c77b807ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "94c9c6e3cd2c47ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9d28d2fc574ee2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-3_Path_of_the_Tech/Path of the tech part 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path of the tech part 1"
+            }
+          },
+          {
+            "id": "63bd484253b2f89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-3_Path_of_the_Tech/Path of the tech part 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path of the tech part 2"
+            }
+          },
+          {
+            "id": "91bd5569ddd41490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-3_Path_of_the_Tech/Path of the tech part 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path of the tech part 3"
+            }
+          },
+          {
+            "id": "9eb885e550cbddbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-3_Path_of_the_Tech/Path of the tech part 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path of the tech part 4"
+            }
+          },
+          {
+            "id": "4a2f00b79b1e504f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-4_Preparing_For_Jobs/Embrace Rejection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embrace Rejection"
+            }
+          },
+          {
+            "id": "9b3f9d190a0319ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-4_Preparing_For_Jobs/Embrace Rejection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embrace Rejection"
+            }
+          },
+          {
+            "id": "a14a24ff8ee08f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme.md"
+            }
+          },
+          {
+            "id": "44c54cdaf9bb0de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section-3_Path_of_the_Tech/Path of the tech part 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Path of the tech part 1"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2d94670c98710c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5549f351788abc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7870dfea66b83cad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ef344bdd52afbf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Resource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b092f044045bdf85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd8afeddf4f0e51c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b16ec699e1bba20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "7d57de4cc0b89dad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1551893b0a5f567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fe2bac3b8164c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What is Active Directory?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for What is Active Directory?"
+            }
+          },
+          {
+            "id": "e40efc1c1563ceae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "What is Active Directory?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from What is Active Directory?"
+            }
+          },
+          {
+            "id": "2367631db1cdc8d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "151c52ffd80741a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Readme.md"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "66175d6b2d791b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c2302e9a4ab5b62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "a14a24ff8ee08f4f",
+  "lastOpenFiles": [
+    "Section-4_Preparing_For_Jobs/Things To Look For When Applying For Helpdesk Jobs (Red Flags).md",
+    "Section-4_Preparing_For_Jobs/Section 4 Preparing For Jobs.md",
+    "Section-4_Preparing_For_Jobs/Preparing For Job Interviews.md",
+    "Images/Pasted image 20250422232723.png",
+    "Readme.md.md",
+    "Section-4_Preparing_For_Jobs/Embrace Rejection.md",
+    "Section-2_Office365/Section 2 Office 365.md",
+    "Adding Outlook Email on mobile device using ios.md",
+    "Section-3_Path_of_the_Tech/Section 3 Path of the Tech.md",
+    "Section-3_Path_of_the_Tech/Path of the tech part 4.md",
+    "Section-4_Preparing_For_Jobs",
+    "Section-3_Path_of_the_Tech/Path of the tech part 3.md",
+    "Section-3_Path_of_the_Tech/Path of the tech part 2.md",
+    "Images/Pasted image 20250422181807.png",
+    "Images/Pasted image 20250422175233.png",
+    "Section-3_Path_of_the_Tech/Path of the tech part 1.md",
+    "Section-1_Support/What is a ticketing system?.md",
+    "Images/Pasted image 20250305205521.png",
+    "Section-3_Path_of_the_Tech",
+    "Section-2_Office365/Office 365 (Understanding Office 365).md",
+    "Section-2_Office365/Adding Outlook Email on mobile device using ios.md",
+    "Section-2_Office365/Common Helpdesk Office 365 Issues.md",
+    "Section-1_Support/Section 1 Support.md",
+    "Section-1_Support/Printers (Troubleshooting Printer Issues).md",
+    "Section-1_Support/Share Drive Permissions.md",
+    "Section-1_Support/Windows 10 troubleshooting as Helpdesk.md",
+    "Section-1_Support/How to Remote into a user machine?.md",
+    "Section-1_Support/MDM How to set up company email?.md",
+    "Section-1_Support/What is IT Support?.md",
+    "Pasted image 20250221011921.png",
+    "Images/Pasted image 20250221011943.png",
+    "Section-2_Office365",
+    "Section-1_Support/How to answer phone calls? Talking to people..md",
+    "Untitled 1",
+    "Section-1_Support",
+    "Section-1_Support/What is a Home Lab?.md",
+    "Section-1_Support/What is Active Directory?.md",
+    "Images/Pasted image 20250209012618.png",
+    "Images/Pasted image 20250131001547.png",
+    "Images/Pasted image 20250131001349.png",
+    "Images/Pasted image 20250131000830.png",
+    "atlassian.com/software/jira",
+    "atlassian.com/software",
+    "atlassian.com",
+    "Images",
+    "Untitled.canvas"
+  ]
+}
