@@ -56,5 +56,6 @@ more effectively
 >***"PRACTICE IT!!"***
 
 
-> [!tip] My Jira Website
+> [!tip]
+> My Jira Website
 >https://rachitagarwal.atlassian.net/jira/servicedesk/projects/SUP/queues/custom/1
